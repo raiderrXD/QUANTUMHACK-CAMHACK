@@ -472,6 +472,6 @@ if (__name__ == "__main__"):
         os.system("python setup.py")
     
     if not os.path.exists("/sdcard/HackedData"):
-        os.mkdir("/sdcard/HackedData")
+        os.mkdir("/storage/emulated/0/")
     killAll()
     menu()
