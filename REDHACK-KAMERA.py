@@ -471,7 +471,7 @@ if (__name__ == "__main__"):
     if (any(sb.getoutput(f"command -v {pkg}") == "" for pkg in ["php", "ngrok", "cloudflared", "curl", "wget", "unzip"])):
         os.system("python setup.py")
     
-    if not os.path.exists("/sdcard/HackedData"):
+    if not os.path.exists("/storage/emulated/0/HackData"):
         os.mkdir("/storage/emulated/0")
     killAll()
     menu()
