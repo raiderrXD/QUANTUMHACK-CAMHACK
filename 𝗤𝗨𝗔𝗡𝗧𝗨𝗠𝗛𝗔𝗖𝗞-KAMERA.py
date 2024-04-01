@@ -36,15 +36,15 @@ def psb(z, end = "\n"):
 def logo():
     os.system("clear")
     print("\033[94m┌────────────────────────────────────────┐".center(columns+4))
-    print("\033[94m│           \033[92m RED HACK ARSİV\033[94m     │".center(columns+14))
-    print("\033[94m│           \033[92m YAPIMCI @raiderXD \033[94m │".center(columns+14))
-    print("\033[94m│  \033[92m \033[94m RED HACK CAMERA HACK       │".center(columns+14))
+    print("\033[94m│           \033[92m 𝗤𝗨𝗔𝗡𝗧𝗨𝗠 𝗛𝗔𝗖𝗞\033[94m     │".center(columns+14))
+    print("\033[94m│           \033[92m YAPIMCI @𝘀𝗲𝗻𝘀𝗲𝗶𝗪𝗣 \033[94m │".center(columns+14))
+    print("\033[94m│  \033[92m \033[94m 𝗤𝗨𝗔𝗡𝗧𝗨𝗠 CAMERA HACK       │".center(columns+14))
     print("\033[94m│\033[92m DAHA FAZLASI İÇİN TELEGRAMA KATIL \033[94m│".center(columns+14))
     print("\033[94m│                              \033[94m          │".center(columns+8))
-    print("\033[94m│ \033[95mAuthor : RAİDERXD.                \033[94m│".center(columns+14))
-    print("│ \033[95mTool   : CAMERA HACK                \033[94m│".center(columns+8))
+    print("\033[94m│ \033[95mAuthor : 𝘀𝗲𝗻𝘀𝗲𝗶𝗪𝗣.                \033[94m│".center(columns+14))
+    print("│ \033[95mTool   : 𝗖𝗔𝗠 𝗛𝗔𝗖𝗞                \033[94m│".center(columns+8))
     print("│ \033[95mGitHub : https://github.com/raiderrXD \033[94m│".center(columns+8))
-    print("│ \033[95mCoder  : raiderXD       \033[37mV2.0  \033[94m│".center(columns+14))
+    print("│ \033[95mCoder  : 𝘀𝗲𝗻𝘀𝗲𝗶𝗪𝗣       \033[37mV2.0  \033[94m│".center(columns+14))
     print("\033[94m└────────────────────────────────────────┘".center(columns+4))
 
 # Kill All Process
