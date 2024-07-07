@@ -9,7 +9,7 @@ Bu Tool 𝘿𝙖𝙧𝙠 𝙉𝙚𝙗𝙪𝙡𝙖 𝙃𝙖𝙘𝙠 Tarafından Y
 * Kopyalama Panosu
 * Konum
 * Son Yapıştırılan
-> @senseiWP
+> @yigitreal
 * Cihaz Bilgisi
 
 
